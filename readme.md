@@ -6,4 +6,8 @@ This is a Custom Responsive Wordpress Theme source coded by Christopher Amirian.
 * Custom Template
 * Custom Taxonomy (Added Category for pages)
 * Responsive Coded
-* UIKIT enabled 
+* UIKIT enabled   
+
+<h4>Please visit link below for a demo of theme:</h4>  
+
+[fitness.mwi.com](http://fitness.mwi.com)
